@@ -272,7 +272,7 @@ Here we go :
   - `nc.exe -l -p 8888`
     - "`netcat`, écoute sur le port numéro 8888 stp"
   - il se passe rien ? Normal, faut attendre qu'un client se connecte
-  ![chat2](ChatV2.PNG)
+  ![chat2](ChatV2.png)
   
 - 🌞 **sur le PC *client*** avec par exemple l'IP 192.168.1.2
   - `nc.exe 192.168.1.1 8888`
