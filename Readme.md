@@ -334,6 +334,8 @@ Une fois que le serveur DHCP vous a donné une IP, vous enregistrer un fichier a
 - cette adresse a une durée de vie limitée. C'est le principe du ***bail DHCP*** (ou *DHCP lease*). Trouver la date d'expiration de votre bail DHCP
 - vous pouvez vous renseigner un peu sur le fonctionnement de DHCP dans les grandes lignes. On aura sûrement un cours là dessus :)
 
+![bailexpirant](bailexpirant.PNG)
+
 ## 2. DNS
 
 Le protocole DNS permet la résolution de noms de domaine vers des adresses IP. Ce protocole permet d'aller sur `google.com` plutôt que de devoir connaître et utiliser l'adresse IP du serveur de Google.  
