@@ -361,6 +361,49 @@ Si votre navigateur fonctionne "normalement" (il vous permet d'aller sur `google
     - interpréter les résultats
     - *si vous vous demandez, j'ai pris des adresses random :)*
 
+```
+Serveur :   dns.google
+Address:  8.8.8.8
+
+Réponse ne faisant pas autorité :
+Nom :    google.com
+Addresses:  2a00:1450:4007:818::200e
+          216.58.213.78
+```
+
+```
+Serveur :   dns.google
+Address:  8.8.8.8
+
+Réponse ne faisant pas autorité :
+Nom :    ynov.com
+Addresses:  2606:4700:20::681a:be9
+          2606:4700:20::681a:ae9
+          2606:4700:20::ac43:4ae2
+          104.26.11.233
+          172.67.74.226
+          104.26.10.233
+```
+
+```
+Serveur :   dns.google
+Address:  8.8.8.8
+
+Nom :    host-78-74-21-21.homerun.telia.com
+Address:  78.74.21.21
+```
+
+```
+Serveur :   dns.google
+Address:  8.8.8.8
+
+*** dns.google ne parvient pas à trouver 92.146.54.88 : Non-existent domain
+```
+
+```
+on a ducoup fait une demande au nom de domaine, et la reponse est leur Ip correspondant 
+```
+
 # IV. Wireshark
 
 Wireshark est un outil qui permet de visualiser toutes les trames qui sortent et entrent d'une carte réseau.
