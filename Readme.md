@@ -215,6 +215,7 @@ L'idée est la suivante :
 
 - 🌞 pour tester la connectivité à internet on fait souvent des requêtes simples vers un serveur internet connu
   - encore une fois, un ping vers un DNS connu comme `1.1.1.1` ou `8.8.8.8` c'est parfait
+  ![pinggoogle](pinggoogle.PNG) 
 - 🌞 utiliser un `traceroute` ou `tracert` pour bien voir que les requêtes passent par la passerelle choisie (l'autre le PC)
   ![tracert](tracert.PNG)
 
