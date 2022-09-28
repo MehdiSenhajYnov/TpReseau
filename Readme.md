@@ -344,6 +344,8 @@ Si votre navigateur fonctionne "normalement" (il vous permet d'aller sur `google
 
 - 🌞 trouver l'adresse IP du serveur DNS que connaît votre ordinateur
 
+![dnsCmd](dnsCmd.PNG)
+
 - 🌞 utiliser, en ligne de commande l'outil `nslookup` (Windows, MacOS) ou `dig` (GNU/Linux, MacOS) pour faire des requêtes DNS à la main
 
   - faites un *lookup* (*lookup* = "dis moi à quelle IP se trouve tel nom de domaine")
