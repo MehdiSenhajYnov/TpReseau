@@ -215,6 +215,7 @@ L'idée est la suivante :
 
 - 🌞 pour tester la connectivité à internet on fait souvent des requêtes simples vers un serveur internet connu
   - encore une fois, un ping vers un DNS connu comme `1.1.1.1` ou `8.8.8.8` c'est parfait
+  ![pinggoogle](pinggoogle.PNG) 
 - 🌞 utiliser un `traceroute` ou `tracert` pour bien voir que les requêtes passent par la passerelle choisie (l'autre le PC)
   ![tracert](tracert.PNG)
 
@@ -271,7 +272,7 @@ Here we go :
   - `nc.exe -l -p 8888`
     - "`netcat`, écoute sur le port numéro 8888 stp"
   - il se passe rien ? Normal, faut attendre qu'un client se connecte
-  ![chat2](ChatV2.PNG)
+  ![chat2](ChatV2.png)
   
 - 🌞 **sur le PC *client*** avec par exemple l'IP 192.168.1.2
   - `nc.exe 192.168.1.1 8888`
