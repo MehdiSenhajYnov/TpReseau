@@ -113,6 +113,8 @@ Il sert à passer du réseau privé au réseau publique
   - par exemple pour `10.33.1.10`, ne changez que le `10`
   - valeur entre 1 et 254 compris
 
+![IpChangeWifi](IpChangeWifi.png)
+
 🌞 **Il est possible que vous perdiez l'accès internet.** Que ce soit le cas ou non, expliquez pourquoi c'est possible de perdre son accès internet en faisant cette opération.
 ```
 Quand on change d'adresse IP, si il y a 2 adresse IP egaux, il ne sait pas à qui envoyer les paquet
